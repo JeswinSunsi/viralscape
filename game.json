@@ -22636,7 +22636,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.23000000000000026,
+        "zoomFactor": 0.3100000000000003,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -29760,7 +29760,7 @@
               },
               "parameters": [
                 "",
-                "\"levelTwo\"",
+                "\"levelOne\"",
                 ""
               ],
               "subInstructions": []
@@ -29796,7 +29796,7 @@
               },
               "parameters": [
                 "",
-                "\"levelOne\"",
+                "\"levelTwo\"",
                 ""
               ],
               "subInstructions": []
@@ -42830,7 +42830,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.21000000000000021,
+        "zoomFactor": 0.19000000000000022,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -57309,7 +57309,7 @@
               },
               "parameters": [
                 "",
-                "\"levelFour\"",
+                "\"levelThree\"",
                 ""
               ],
               "subInstructions": []
@@ -57345,7 +57345,7 @@
               },
               "parameters": [
                 "",
-                "\"levelThree\"",
+                "\"levelFour\"",
                 ""
               ],
               "subInstructions": []
@@ -57447,7 +57447,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.030000000000000013,
+        "zoomFactor": 0.8100000000000003,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -57574,8 +57574,8 @@
           "name": "testChar",
           "persistentUuid": "bc77eb81-bd53-4efe-8fa1-29cebf719e2b",
           "width": 125,
-          "x": 9389.4638671875,
-          "y": -598.4339599609375,
+          "x": -1896.53662109375,
+          "y": 453.5660400390625,
           "zOrder": 70,
           "numberProperties": [],
           "stringProperties": [],
@@ -60647,22 +60647,6 @@
           "persistentUuid": "ba00d029-e699-47c2-9798-a8151b8b432b",
           "width": 1205.3795166015625,
           "x": -3839,
-          "y": -31,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 678.0260620117188,
-          "layer": "",
-          "locked": false,
-          "name": "tileGraveBg1",
-          "persistentUuid": "62f466ab-136f-497f-8fb4-f4dbd40868a6",
-          "width": 1205.3795166015625,
-          "x": -5044,
           "y": -31,
           "zOrder": -2,
           "numberProperties": [],
