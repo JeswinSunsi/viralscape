@@ -1,0 +1,15 @@
+This demo was made possible thanks to these amazing game art studios/communities - 
+tokegameart.net
+gameart2d.com
+craftpix.net
+
+Also, kudos to the contributors for such amazing documentation. It's rich and easy to understand.
+wiki.compilgames.net/doku.php/gdevelop5
+
+You can do pretty much anything you want with this demo, except reselling the art used [craftpix.net/file-licenses]
+
+Reach out to me [OC] on twitter or instagram, @lonadotexe
+You can also mail me, lona.exe@outlook.com
+
+If you liked this project, please star its github repo - github.com/JeswinSunsi/viralscape
+
